@@ -1,6 +1,38 @@
 # 🔐 TOTP Playground: Because Apparently We Need 47 Dependencies to Generate 6 Numbers
 
+<!-- Badge Gallery: Because nothing says "professional" like a wall of colorful rectangles -->
+<div align="center">
+
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Available-brightgreen?style=for-the-badge&logo=github)](https://davidyen1124.github.io/totp-website/)
+[![GitHub Pages](https://img.shields.io/github/deployments/davidyen1124/totp-website/github-pages?style=for-the-badge&logo=github&label=GitHub%20Pages)](https://davidyen1124.github.io/totp-website/)
+
+[![Build Status](https://img.shields.io/github/actions/workflow/status/davidyen1124/totp-website/deploy.yml?branch=main&style=flat-square&logo=github&label=Build%20%28Probably%20Works%29)](https://github.com/davidyen1124/totp-website/actions)
+[![License](https://img.shields.io/badge/License-Don't%20Sue%20Us-blue?style=flat-square&logo=balance-scale)](/LICENSE)
+[![React](https://img.shields.io/badge/React-19.1.0-61DAFB?style=flat-square&logo=react&logoColor=white)](https://reactjs.org/)
+[![Vite](https://img.shields.io/badge/Vite-6.3.5-646CFF?style=flat-square&logo=vite&logoColor=white)](https://vitejs.dev/)
+
+[![Node.js](https://img.shields.io/badge/Node.js-20+-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-Not%20Used-red?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-4.1.7-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+[![ESLint](https://img.shields.io/badge/ESLint-Mostly%20Ignored-4B32C3?style=flat-square&logo=eslint)](https://eslint.org/)
+
+[![Dependencies](https://img.shields.io/badge/Dependencies-Too%20Many-orange?style=flat-square&logo=npm)](package.json)
+[![Bundle Size](https://img.shields.io/badge/Bundle%20Size-Surprisingly%20Large-yellow?style=flat-square&logo=webpack)](https://github.com/davidyen1124/totp-website)
+[![Code Quality](https://img.shields.io/badge/Code%20Quality-It%20Works-green?style=flat-square&logo=codeclimate)](https://github.com/davidyen1124/totp-website)
+[![Maintainability](https://img.shields.io/badge/Maintainability-Good%20Luck-red?style=flat-square&logo=github)](https://github.com/davidyen1124/totp-website)
+
+[![Coffee Consumption](https://img.shields.io/badge/Coffee-Excessive-brown?style=flat-square&logo=coffee)](https://en.wikipedia.org/wiki/Coffee)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Copy%20Pasted-orange?style=flat-square&logo=stackoverflow)](https://stackoverflow.com/)
+[![Developer Sanity](https://img.shields.io/badge/Developer%20Sanity-0%25-critical?style=flat-square&logo=github)](https://github.com/davidyen1124/totp-website)
+[![Feature Creep](https://img.shields.io/badge/Feature%20Creep-Inevitable-purple?style=flat-square&logo=github)](https://github.com/davidyen1124/totp-website/issues)
+
+</div>
+
+---
+
 _A completely over-engineered, React-based shrine to the ancient art of generating six random digits every 30 seconds._
+
+**🌐 [View Live Demo](https://davidyen1124.github.io/totp-website/)** ← Click here to witness the glory!
 
 Welcome, brave soul, to yet another JavaScript framework demonstration that definitely couldn't have been a simple HTML file with 20 lines of vanilla JS. But no, we had to use React, Vite, Tailwind, ESLint, and probably sacrifice a small goat to the npm gods to make this work.
 

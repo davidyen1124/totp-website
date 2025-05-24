@@ -1,0 +1,104 @@
+THE "DON'T SUE US, WE'RE JUST DEVELOPERS" LICENSE (DSUWD)
+
+Also known as: The "It Worked On My Machine" License
+Version: 1.0-sarcasm-edition
+Copyright (c) 2024 The Sleep-Deprived Developers of TOTP Playground
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+THE CONDITIONS OF "PLEASE DON'T BLAME US":
+
+1. The above copyright notice and this permission notice shall be included in
+   all copies or substantial portions of the Software. (Because lawyers say so)
+
+2. You acknowledge that this Software was probably written at 3 AM after
+   consuming unhealthy amounts of caffeine and existential dread.
+
+3. Any bugs you find are not bugs, they are "undocumented features" that add
+   character to the software experience.
+
+4. If this software breaks your computer, your marriage, your hopes and dreams,
+   or causes your cat to give you judgmental looks, that's between you and
+   the universe. We are merely humble servants of the npm ecosystem.
+
+5. You agree that reading this license counts as "entertainment" and we are
+   not responsible for any productivity lost while reading sarcastic legal text.
+
+THE DISCLAIMER OF "WE TRIED OUR BEST, OKAY?":
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
+DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR
+OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE
+USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+TRANSLATION FOR HUMANS:
+
+- Use this code however you want
+- If it breaks, that's your problem
+- We're not responsible for anything ever
+- Seriously, we wrote code that generates numbers, calm down
+- Yes, you can sell apps built with this, but good luck explaining why you
+  needed React to count to 6
+- If you make millions from this, buying us coffee would be nice but not required
+- Any resemblance to actual professional software is purely coincidental
+
+SPECIAL CLAUSES:
+
+THE "STACK OVERFLOW ACKNOWLEDGMENT":
+Large portions of this software were definitely copy-pasted from Stack Overflow.
+We acknowledge the anonymous heroes who answered our increasingly desperate
+questions at 2 AM.
+
+THE "DEPENDENCY HELL IMMUNITY":
+We are not responsible for the 500MB of node_modules that this project requires.
+That's just how web development works now. Don't shoot the messenger.
+
+THE "PRODUCTION DEPLOYMENT WARNING":
+If you deploy this to production without proper testing, security review, and
+a healthy dose of prayer, that's a "you" problem. We made a demo, not enterprise
+software.
+
+THE "TIME TRAVEL EXEMPTION":
+This license is valid across all timezones and during leap seconds. However,
+we are not responsible if this software somehow breaks the space-time continuum.
+(Though honestly, given JavaScript's relationship with time, this is possible)
+
+---
+
+This license is compatible with:
+
+- MIT License (our template)
+- Apache License (if you squint)
+- Your sanity (results may vary)
+- Modern web development (nothing is compatible with that)
+
+This license is NOT compatible with:
+
+- Internet Explorer (but neither is anything else)
+- Reasonable expectations
+- Normal human sleep schedules
+- The concept of "simple solutions"
+
+Remember: In web development, everything is made up and the points don't matter.
+But this license definitely does matter. Probably. Maybe. We're not lawyers.
+
+---
+
+"License written by caffeine-powered developers who have seen too much.
+No attorneys were harmed in the making of this license."
+
+For questions about this license, please submit a GitHub issue. For questions
+about life, the universe, and everything, please consult Stack Overflow like
+the rest of us.
+
+P.S. If you actually read this entire license, you deserve a medal. Or therapy.
+Possibly both.

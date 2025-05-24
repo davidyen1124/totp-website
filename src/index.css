@@ -1,0 +1,75 @@
+@import 'tailwindcss';
+
+/* Custom font families for hacker theme */
+:root {
+  --font-mono: 'Fira Code', 'JetBrains Mono', 'Source Code Pro', 'Courier New',
+    monospace;
+  --font-display: 'Orbitron', 'Arial', sans-serif;
+  --font-body: 'JetBrains Mono', 'Fira Code', 'Source Code Pro', monospace;
+}
+
+/* Override Tailwind defaults with hacker fonts */
+.font-mono {
+  font-family: var(--font-mono);
+}
+
+.font-display {
+  font-family: var(--font-display);
+}
+
+.font-hacker {
+  font-family: var(--font-body);
+}
+
+/* Global body font override for full hacker experience */
+body {
+  font-family: var(--font-body);
+  background-color: #0f0f23;
+  color: #cccccc;
+}
+
+/* Custom hacker-style input styling */
+.hacker-input {
+  background-color: #1a1a2e;
+  border: 1px solid #16213e;
+  color: #00ff00;
+  font-family: var(--font-mono);
+}
+
+.hacker-input:focus {
+  border-color: #00ff00;
+  box-shadow: 0 0 5px rgba(0, 255, 0, 0.3);
+}
+
+/* Hacker-style buttons */
+.hacker-btn {
+  background: linear-gradient(45deg, #0f3460, #16213e);
+  border: 1px solid #00ff00;
+  color: #00ff00;
+  font-family: var(--font-mono);
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  transition: all 0.3s ease;
+}
+
+.hacker-btn:hover {
+  background: linear-gradient(45deg, #16213e, #0f3460);
+  box-shadow: 0 0 10px rgba(0, 255, 0, 0.4);
+  transform: translateY(-1px);
+}
+
+/* Matrix-style text effect for headings */
+.matrix-text {
+  font-family: var(--font-display);
+  color: #00ff00;
+  text-shadow: 0 0 5px rgba(0, 255, 0, 0.5);
+  font-weight: 600;
+  letter-spacing: 2px;
+}
+
+/* Terminal-style cards */
+.terminal-card {
+  background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+  border: 1px solid #0f3460;
+  box-shadow: 0 0 20px rgba(0, 255, 0, 0.1);
+}
